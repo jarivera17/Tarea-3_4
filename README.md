@@ -220,6 +220,10 @@ OBJETIVOS ESPECÍFICOS
   36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
   ![image](https://user-images.githubusercontent.com/116693260/202338111-0113ccaa-6d2c-45a0-81a1-0662831bd9ec.png)
+  
+  4. VIDEO EXPLICATIVO
+ 
+  5. CONCLUSIONES
 
   
 
