@@ -32,7 +32,7 @@ OBJETIVOS ESPECÍFICOS
 
   ![Frame 2](https://user-images.githubusercontent.com/116693260/202340600-42c98c85-4c0a-4a6b-b62a-a16a81d4d9ad.jpg)
 
-  ![ENERGÍA Y POTENCIA-1](https://user-images.githubusercontent.com/116693260/202340612-998d235f-568b-4c26-a2ef-139b3bfd9791.jpg)
+  ![ENERGÍA Y POTENCIA](https://user-images.githubusercontent.com/116693260/202351062-d399cda4-3e4c-41e5-804d-e8b4f98a94c5.jpg)
   
   ![La relación de corriente, voltaje y resistencia-2](https://user-images.githubusercontent.com/116693260/202340632-f13c25a9-8245-4547-b7ba-4af8906ffb98.jpg)
 
