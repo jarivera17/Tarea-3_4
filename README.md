@@ -10,7 +10,21 @@ OBJETIVOS
 
   1. OBJETIVO GENERAL
   
+  Aprender tanto la base teórica como la aplicación práctica de los capítulos 3 y 4 del libro "Principios de circuitos eléctricos" de Floyd, mismos que corresponden a los temas principales de: "Ley de Ohm" y "Potencia y energía" respectivamente, analizando y comprendiendo cada tema derivado de los ya mencionados, conociendo sus fórmulas y su apropiada forma de aplicación.  
+  
 OBJETIVOS ESPECÍFICOS
+
+  * Conocer la relación existente entre Corriente, Voltaje y Resistencia; analizar y comprender la fórmula correspondiente a dicha relación, para así, calcular: corriente, voltaje y resistencia en un circuito.
+
+  * Aprender y aplicar el método y procedimiento básico de localización de fallas en un circuito eléctrico.
+
+  * Conocer y comprender la definición de los términos "Potencia" y "Energía".
+
+  * Aprender a calcular la potencia en un circuito eléctrico.
+  
+  * Aprender la forma apropiada de seleccionar resistores con base en consideraciones de su potencia.
+
+ * Conocer las fuentes de potencia y sus características, tales como, su funcionamiento.  
 
   2. MARCO TEÓRICO (RESUMEN)
 
