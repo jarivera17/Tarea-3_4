@@ -266,3 +266,4 @@ ohmmetro mostradas.
 
   * Finalmente, se ha aprendido en cuanto a las fuentes de potencia, conociendo además de su funcionalidad, aspectos como los "Amperes-hora nominales de baterías" y la "Eficiencia de una fuente de potencia".   
 
+Joshua
