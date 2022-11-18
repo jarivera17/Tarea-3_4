@@ -267,7 +267,7 @@ ohmmetro mostradas.
   * Como tal, se ha adquirido conocimiento en cuanto al calor que se genera en un resistor con el paso de corriente a través de este, y cómo dicho calor es disipado por el resistor, conociendo a esta capacidad como "Potencial Nominal en Resistores", aprendiendo que esto depende de aspectos físicos del resistor, además de conocer que existen diferentes clasificaciones de potencia estándar, dependiendo del tipo de resistor.
 
   * Finalmente, se ha aprendido en cuanto a las fuentes de potencia, conociendo además de su funcionalidad, aspectos como los "Amperes-hora nominales de baterías" y la "Eficiencia de una fuente de potencia".   
-  *
+  
   6. BIBLIOGRAFÍA
   
   * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
