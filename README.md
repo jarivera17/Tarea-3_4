@@ -252,6 +252,8 @@ ohmmetro mostradas.
   
   4. VIDEO EXPLICATIVO
  
+ https://uespe-my.sharepoint.com/:v:/g/personal/jarivera17_espe_edu_ec/ETcf2AaVwPhIuKjIqLDfUIwBf2Jc0Iz6XcpvNynCCVJfRQ?e=hj1ExL
+ 
   5. CONCLUSIONES
 
   * En síntesis, se ha adquirido un amplio conocimiento en lo que respecta a los temas "Lay de Ohm" y "Potencia y energía", tanto en sus bases teóricas como en su aplicación práctica con una gran variedad de ejercicios correspondientes a cada tema derivado de los 2 principales previamente mencionados. 
@@ -265,3 +267,7 @@ ohmmetro mostradas.
   * Como tal, se ha adquirido conocimiento en cuanto al calor que se genera en un resistor con el paso de corriente a través de este, y cómo dicho calor es disipado por el resistor, conociendo a esta capacidad como "Potencial Nominal en Resistores", aprendiendo que esto depende de aspectos físicos del resistor, además de conocer que existen diferentes clasificaciones de potencia estándar, dependiendo del tipo de resistor.
 
   * Finalmente, se ha aprendido en cuanto a las fuentes de potencia, conociendo además de su funcionalidad, aspectos como los "Amperes-hora nominales de baterías" y la "Eficiencia de una fuente de potencia".   
+  *
+  6. BIBLIOGRAFÍA
+  
+  Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
