@@ -270,4 +270,4 @@ ohmmetro mostradas.
   *
   6. BIBLIOGRAFÍA
   
-  Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
+  * Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
