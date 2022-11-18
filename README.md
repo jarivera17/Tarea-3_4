@@ -67,7 +67,11 @@ OBJETIVOS ESPECÍFICOS
 
   ![image](https://user-images.githubusercontent.com/116693260/202334937-89ee5012-8dc5-41da-b809-3822b523ccd8.png)
 
-  Falta 8!!!!
+  8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro. 
+
+  ![image](https://user-images.githubusercontent.com/116693260/202600594-e10fd5b3-8afb-4f67-9956-d7fda2614776.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/202600316-2036166f-ed74-4a98-aa42-cf4f64da03c8.png)
   
   10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
   
@@ -77,7 +81,11 @@ OBJETIVOS ESPECÍFICOS
   
   ![image](https://user-images.githubusercontent.com/116693260/202335155-1d71de40-1442-4936-8fd8-09359ebdedb7.png)
 
-  Falta 12 y 14!!!!
+  *12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+  ![image](https://user-images.githubusercontent.com/116693260/202597754-d3908eef-a0f3-4d62-9d7f-07a8b57557fe.png)
+
+  Falta 14!!!!
   
   ECCIÓN 3–2 Cálculo de la corriente
 
