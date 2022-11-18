@@ -159,6 +159,13 @@ OBJETIVOS ESPECÍFICOS
   
   SECCIÓN 3–5 Introducción a la localización de fallas
 
+  36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de
+ohmmetro mostradas.
+
+  ![image](https://user-images.githubusercontent.com/116693260/202624101-7be1b6f1-a2c5-4e36-81bc-5f69948047f9.png)
+
+  ![image](https://user-images.githubusercontent.com/116693260/202626766-76e7f428-e4f8-42aa-98e3-a92a7d11b916.png)
+
   EJERCICIOS CAPÍTULO 4
 
   SECCIÓN 4–1 Energía y potencia 
@@ -227,7 +234,9 @@ OBJETIVOS ESPECÍFICOS
 
   ![image](https://user-images.githubusercontent.com/116693260/202337923-a7c36d5e-3560-401e-9350-f781a8910ccc.png)
 
-  Falta 30!!!!
+  30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+  
+  
   
   32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
 
