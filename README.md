@@ -256,25 +256,13 @@ ohmmetro mostradas.
 
   * En síntesis, se ha adquirido un amplio conocimiento en lo que respecta a los temas "Lay de Ohm" y "Potencia y energía", tanto en sus bases teóricas como en su aplicación práctica con una gran variedad de ejercicios correspondientes a cada tema derivado de los 2 principales previamente mencionados. 
 
-  * Se ha aprendido acerca de la ley de Ohm, cocociendo la relación entre intensidad, voltaje y resistencia; analizando de tal forma la proporcionalidad lineal que existe entre cada una de ellas, ya sea entre corriente y voltaje, linealmente proporcionales; o corriente y resistencia, inversamente proporcionales; comprendiendo de tal manera, la fórmula mediante la cual se expresa la ley de Ohm, y cómo esta puede ser aplicada para hallar los valores respectivos en un circuito eléctrico.
+  * Se ha aprendido acerca de la ley de Ohm, conociendo la relación entre intensidad, voltaje y resistencia; analizando de tal forma la proporcionalidad lineal que existe entre cada una de ellas, ya sea entre corriente y voltaje, linealmente proporcionales; o corriente y resistencia, inversamente proporcionales; comprendiendo de tal manera, la fórmula mediante la cual se expresa la ley de Ohm, y cómo esta puede ser aplicada para hallar los valores respectivos en un circuito eléctrico.
 
   * En síntesis, se ha podido conocer el método en 3 pasos, APM, empleado en la localización de fallas en un circuito eléctrico, esencialmente se ha aplicado este conocimiento en ejercicios de detección de fallas para encontrar los focos fundidos, llevando a cabo mediciones de resistencia mediante la técnica de división a la mitad.
   
-  * Se ha aprendido sobre las definiciones de potencia y energía conjuntamente a la forma en la que se pueden calcular dichas magnitudes en un circuito eléctrico, descublriendo las formas en las que la potencia es expresada en función de voltaje, resistencia e intensidad; además de conocer la unidad de medidad kiliwatt-hora.
+  * Se ha aprendido sobre las definiciones de potencia y energía conjuntamente a la forma en la que se pueden calcular dichas magnitudes en un circuito eléctrico, descubriendo las formas en las que la potencia es expresada en función de voltaje, resistencia e intensidad; además de conocer la unidad de medida kiliwatt-hora.
 
-  * Como tal, se ha adquirido conocimiento en cuanto al calor que se genera en un resistor con el paso de corriente a través de este, y cómo dicho calor es disipado por el resistor, conociendo a esta capacidad como "Potencial Nominal en Resistores", aprendiendo que esto depende de espectos físicos del resistor, además de conocer que existen diferentes clasificaciones de potencia estándar, dependiendo del tipo de resistor.
+  * Como tal, se ha adquirido conocimiento en cuanto al calor que se genera en un resistor con el paso de corriente a través de este, y cómo dicho calor es disipado por el resistor, conociendo a esta capacidad como "Potencial Nominal en Resistores", aprendiendo que esto depende de aspectos físicos del resistor, además de conocer que existen diferentes clasificaciones de potencia estándar, dependiendo del tipo de resistor.
 
   * Finalmente, se ha aprendido en cuanto a las fuentes de potencia, conociendo además de su funcionalidad, aspectos como los "Amperes-hora nominales de baterías" y la "Eficiencia de una fuente de potencia".   
 
-  
-
-
-  
-
-
-
-  
-  
-
-  
-  
