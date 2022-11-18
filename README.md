@@ -32,9 +32,9 @@ OBJETIVOS ESPECÍFICOS
 
   ![Frame 2](https://user-images.githubusercontent.com/116693260/202340600-42c98c85-4c0a-4a6b-b62a-a16a81d4d9ad.jpg)
 
-  ![ENERGÍA Y POTENCIA](https://user-images.githubusercontent.com/116693260/202351062-d399cda4-3e4c-41e5-804d-e8b4f98a94c5.jpg)
-  
-  ![La relación de corriente, voltaje y resistencia-2](https://user-images.githubusercontent.com/116693260/202340632-f13c25a9-8245-4547-b7ba-4af8906ffb98.jpg)
+  ![ENERGÍA Y POTENCIA](https://user-images.githubusercontent.com/116693260/202622707-c49e5c87-9786-437b-970d-530e2fbfa108.jpg)
+
+  ![La relación de corriente, voltaje y resistencia](https://user-images.githubusercontent.com/116693260/202622750-99f2e40f-cd56-4bcf-9466-4fe3f8467e40.jpg)
 
   ![La relación de corriente, voltaje y resistencia-1](https://user-images.githubusercontent.com/116693260/202340669-16b99226-88fe-4101-af29-5e8eda45f1c8.jpg)
 
@@ -155,7 +155,7 @@ OBJETIVOS ESPECÍFICOS
 
   *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15Ω.
   
-  
+  ![image](https://user-images.githubusercontent.com/116693260/202623164-ab1edd8d-0b97-4fee-9c82-e94682b9b961.png)
   
   SECCIÓN 3–5 Introducción a la localización de fallas
 
